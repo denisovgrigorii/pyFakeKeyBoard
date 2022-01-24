@@ -4,7 +4,7 @@ import random, pyautogui, time
 FIRST_ROW = ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p']
 SECOND_ROW = ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l']
 DURATION = [0.2, 0.25, 0.27, 0.21, 0.41, 0.45, 0.69, 0.31, 1.2, 0.7, 0.6]
-STEP_SWICHING = [x for x in range(0, 10)]
+STEP_SWICHING = [x for x in range(0, 11)]
 
 
 # определяем размер экрана для генерации переменных PIXEL_X, PIXEL_Y
